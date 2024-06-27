@@ -1,0 +1,113 @@
+﻿@model Employees_Manangement_System.Models.Employee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Employee</h4>
+<hr />
+<style> 
+    #div1 {
+        width:33.3%;
+        float: left;
+    }
+    #div2{
+        width:33.3%;
+        margin:0 auto;
+    }
+    #div3{
+        width:33.3%;
+        float: right;
+    }
+
+</style>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <div class="col-md-6">
+                <label asp-for="EmpNo" class="control-label"></label>
+                <input asp-for="EmpNo" class="form-control" />
+                <span asp-validation-for="EmpNo" class="text-danger"></span>
+                </div>
+
+                 <div id="div1" class="col-md-6">
+                <label asp-for="Fname" class="control-label"></label>
+                <input asp-for="Fname" class="form-control" />
+                <span asp-validation-for="Fname" class="text-danger"></span>
+                </div>
+
+                <div id="div3" class="col-md-6">
+                <label asp-for="Lname" class="control-label"></label>
+                <input asp-for="Lname" class="form-control" />
+                <span asp-validation-for="Lname" class="text-danger"></span>
+                </div>
+
+                <div id="div2" class="col-md-6">
+                <label asp-for="Mname" class="control-label"></label>
+                <input asp-for="Mname" class="form-control" />
+                <span asp-validation-for="Mname" class="text-danger"></span>
+                </div>
+                
+            
+                <div class="col-md-6">
+
+                <label asp-for="PhoneNo" class="control-label"></label>
+                <input asp-for="PhoneNo" class="form-control" />
+                <span asp-validation-for="PhoneNo" class="text-danger"></span>
+                </div>
+        
+                <div class="col-md-6">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                <label asp-for="Country" class="control-label"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+                </div>
+     
+                <div class="col-md-6">
+                <label asp-for="DOB" class="control-label"></label>
+                <input asp-for="DOB" class="form-control" />
+                <span asp-validation-for="DOB" class="text-danger"></span>
+                </div>
+  
+                <div class="col-md-6">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+    
+                <div class="col-md-6">
+                <label asp-for="Departnment" class="control-label"></label>
+                <input asp-for="Departnment" class="form-control" />
+                <span asp-validation-for="Departnment" class="text-danger"></span>
+                </div>
+     
+                <div class="col-md-6">
+                <label asp-for="Designation" class="control-label"></label>
+                <input asp-for="Designation" class="form-control" />
+                <span asp-validation-for="Designation" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+             </div>
+         
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\wwwroot\\adminlte\\build\\config\\.eslintrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:wwwroot\\adminlte\\build\\config\\.eslintrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\models\\useractivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:models\\useractivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\data\\migrations\\20240625083733_employeesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:data\\migrations\\20240625083733_employeesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|c:\\users\\huthayfa\\source\\repos\\employees manangement system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E5A4A-947C-4F35-9A62-FF30E2729F56}|Employees Manangement System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:28:50.936Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:18:04.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T10:53:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T09:25:54.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAFkAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T09:20:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserActivities.cs",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Models\\UserActivities.cs",
+              "RelativeDocumentMoniker": "Models\\UserActivities.cs",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Models\\UserActivities.cs",
+              "RelativeToolTip": "Models\\UserActivities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:31:34.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:27:57.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T08:22:28.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T08:57:05.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T09:19:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T09:25:55.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".eslintrc.json",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\wwwroot\\AdminLTE\\build\\config\\.eslintrc.json",
+              "RelativeDocumentMoniker": "wwwroot\\AdminLTE\\build\\config\\.eslintrc.json",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\wwwroot\\AdminLTE\\build\\config\\.eslintrc.json",
+              "RelativeToolTip": "wwwroot\\AdminLTE\\build\\config\\.eslintrc.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T11:09:47.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T08:25:20.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T11:11:30.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240625083733_EmployeesDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Data\\Migrations\\20240625083733_EmployeesDetails.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240625083733_EmployeesDetails.cs",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Data\\Migrations\\20240625083733_EmployeesDetails.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240625083733_EmployeesDetails.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:37:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:56:27.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Huthayfa\\source\\repos\\Employees Manangement System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:34:49.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
